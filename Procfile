@@ -1,1 +1,1 @@
-web: gunicorn quarantine_dashboard.wsgipyh
+web: gunicorn quarantine_dashboard.wsgi
