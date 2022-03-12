@@ -1,0 +1,1 @@
+web: gunicorn quarantine_dashboard.wsgipyh
